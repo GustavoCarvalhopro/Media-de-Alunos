@@ -1,0 +1,16 @@
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.exe
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.deps.json
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.runtimeconfig.json
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.runtimeconfig.dev.json
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.dll
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\ref\Aprendizado.dll
+C:\VisualCode\Aprendizado\bin\Debug\net5.0\Aprendizado.pdb
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.csproj.AssemblyReference.cache
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.AssemblyInfoInputs.cache
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.AssemblyInfo.cs
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.csproj.CoreCompileInputs.cache
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.dll
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\ref\Aprendizado.dll
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.pdb
+C:\VisualCode\Aprendizado\obj\Debug\net5.0\Aprendizado.genruntimeconfig.cache
